@@ -13,7 +13,7 @@ Other socio-economic indicators such as the Human Development Index (HDI), mean 
 In conclusion, while Asia as a whole exhibits impressive socio-economic indicators, there is considerable variation across countries. Understanding these differences can provide valuable insights into the development challenges and opportunities facing this diverse continent. It’s important to note that while these factors can provide some understanding of a country’s socio-economic status, they do not capture all aspects of a country’s development and well-being. Other factors such as cultural, historical, and political contexts also play crucial roles.
 
 ### Problem statement
-![IQ](https://scontent.fdps3-1.fna.fbcdn.net/v/t39.30808-6/250753750_165642039111413_559873556492436309_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a73e89&_nc_eui2=AeG_7nzPExeFDlFTELNuQpS1l83L-h_GnIuXzcv6H8aci-toLflse4kdZjB3qEGLDP1g5NhW9kIyatcQXUed4o0T&_nc_ohc=kDiiCm1LsgkAX9-x02-&_nc_zt=23&_nc_ht=scontent.fdps3-1.fna&oh=00_AfC5nmr27o9XqEf56dn97z1QrRd99q51ID20UeAsyLnEsQ&oe=659743A6)
+![IQ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0eiTiHjft2fsa4Xx7ZYB_zd8XT8OvV5Z7tg&usqp=CAU)
 
 **“Examine the socio-economic and intellectual landscape of countries in the Asian continent, with a focus on understanding the disparities and commonalities in Average IQ, Literacy Rate, Gross National Income (GNI), Human Development Index (HDI), Mean Years of Schooling, and Nobel Prizes won. The aim is to identify patterns and correlations among these factors and understand their implications on the classification of ‘intelligence’ across different Asian countries.”**
 
